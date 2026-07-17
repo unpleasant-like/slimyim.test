@@ -2,4 +2,4 @@
 
 ![Screenshot](slimy.png)
 ![Banner](oww.jpg)
-![Banner](BROscam.png)
+![Banner](BROscam.gif)
