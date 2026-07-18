@@ -1,4 +1,4 @@
-# obviously wip
+![Banner](ew1.png)
 
 ![Screenshot](slimy.png)
 
