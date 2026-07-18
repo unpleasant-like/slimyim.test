@@ -1,5 +1,7 @@
 # obviously wip
 
 ![Screenshot](slimy.png)
-![Banner](oww.jpg)
-![Banner](BROscam.gif)
+
+![GIF](BROscam.gif)
+
+![Banner](ew2.png)
